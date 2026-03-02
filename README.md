@@ -4,90 +4,74 @@
   <img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
-
-<h3 align="center">
-AI Backend Engineer • FastAPI • RAG • LLM Integration • Python
-</h3>
+<h1 align="center">Hi, I'm Sanjay Kumar 👋</h1>
 
 <p align="center">
-Building production-ready AI backend systems and scalable intelligent applications.
+AI Backend Engineer • Python • FastAPI • Learning & Building
 </p>
 
 ---
 
-# Featured Projects
+## About Me
 
-## PDF RAG Chatbot
-Retrieval-Augmented Generation chatbot using LangChain, FAISS, and Groq LLM
-
-Tech:
-Python • LangChain • FAISS • Groq • HuggingFace
+• Backend developer interested in AI systems  
+• Currently building and experimenting with FastAPI and LLM integrations  
+• Focused on improving system design and problem solving  
 
 ---
 
-## Gesture Control System (Open Source)
-
-Computer vision system for touchless laptop control using real-time hand gestures
-
-Tech:
-
-Python • OpenCV • MediaPipe • PyAutoGUI
-
----
-
-## DiabetaPredict
-
-AI-powered ML backend with FastAPI, PostgreSQL, and AWS RDS
-
-Tech:
-
-FastAPI • PostgreSQL • AWS • Scikit-learn
-
----
-
-# Tech Stack
+## Tech Stack
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mysql,git,linux,aws" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,aws,git,linux" />
-
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-black?style=flat" />
+<img src="https://img.shields.io/badge/FAISS-blue?style=flat" />
+<img src="https://img.shields.io/badge/RAG-green?style=flat" />
 </p>
 
 ---
 
-# Connect with me
+## GitHub Activity
 
 <p align="center">
+<img src="https://streak-stats.demolab.com?user=insanjay&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://linkedin.com/in/insanjay">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=insanjay&theme=tokyonight" />
+</p>
+
+
+
+---
+
+## Contact
+
+<p align="center">
 
 <a href="mailto:insanjay.work@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/insanjay">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/1397415708769521764">
+<img src="https://skillicons.dev/icons?i=discord" height="50" />
 </a>
 
 </p>
 
----
-
-# GitHub Stats
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=insanjay&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insanjay&layout=compact&theme=tokyonight" />
-
+engineer_8
 </p>
 
 ---
 
-# Current Focus
-
-Building scalable AI backend systems using:
-
-FastAPI • LLMs • Vector Databases • Production Deployment
-
----
+<p align="center">
+Exploring | Building
+</p>
